@@ -31,8 +31,8 @@ print("Location of the first 100 temp on the list is at index",int(locator_100))
 print("="*60)
 
 ####after finding the position create a slice.
-temp_100_slice= temperatures[23: ]
-print("this list shows all temperatures above 100", temp_100_slice)
+temp_100_slice= temperatures[24: ]
+print("This list shows all temperatures ABOVE 100", temp_100_slice)
 
 #task3 extract temperatures from the 5th to the 10th.
 
